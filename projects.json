@@ -1,0 +1,5 @@
+[
+    { "name" : "Project 1", "project-id" : 1, "details" : "cool project 1" }, 
+    { "name" : "Project 2", "project-id" : 2, "details" : "cool project 2" }, 
+    { "name" : "Project 3", "project-id" : 3, "details" : "cool project 3" } 
+]
